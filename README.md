@@ -9,7 +9,7 @@ Install Intel Pin by:
 In Pin directory, go to /source/tools
 
 
-Clone github repository git clone https://github.com/Kyle-1213/research_2024.git 
+Clone github repository "git clone https://github.com/Kyle-1213/research_2024.git" 
 
 The pinatrace tool is a modified version of the tool stored in the ManualExamples directory. This tool prints all read/write system calls.
 
