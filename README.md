@@ -1,6 +1,6 @@
 Install Intel Pin by:
 
-  <Tab> Visiting https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-binary-instrumentation-tool-downloads.html
+  Visiting https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-binary-instrumentation-tool-downloads.html
   
   Click the number under "Kit" on the latest version of Pin
   
